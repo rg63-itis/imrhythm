@@ -8,17 +8,37 @@ main:
     url: '#about'
     weight: 10
   - name: Posts
-    url: '#posts'
+    url: post/
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Leardership
+    url: post/Leardership
+    weight: 10
+    parent: Posts
+  - name: Information Security
+    url: post/Security
+    weight: 20
+    parent: Posts
+  - name: Site Reliability Engg
+    url: post/SRE
     weight: 30
-  - name: Talks
-    url: '#talks'
+    parent: Posts
+  - name: Automation
+    url: post/Automation
     weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
+    parent: Posts
+  - name: Finance
+    url: post/Fin
+    weight: 60
+    parent: Posts
+  #- name: Projects
+  #  url: '#projects'
+  #  weight: 30
+  #- name: Talks
+  #  url: '#talks'
+  #  weight: 40
+  #- name: Publications
+  #  url: '#featured'
+  #  weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
