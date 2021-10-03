@@ -39,7 +39,7 @@ experience:
   - title: India IT Head & Product Assurance Manager
     company: Monotype Solutions India
     company_url: 'https://www.monotype.com/'
-    company_logo: Monotype
+  # company_logo: Monotype
     location: India
     date_start: '2021-01-01'
     #date_end: '2020-12-31'
@@ -52,7 +52,7 @@ experience:
   - title: India IT Head
     company: Monotype Solutions India
     company_url: 'https://www.monotype.com/'
-    company_logo: Monotype
+  # company_logo: Monotype
     location: India
     date_start: '2018-09-02'
     date_end: '2020-12-31'
@@ -65,7 +65,7 @@ experience:
   - title: Lead Consultant
     company: Tata Consultancy Services
     company_url: 'https://www.provaltech.com/'
-    company_logo: proval
+ #  company_logo: proval
     location: India
     date_start: '2018-05-02'
     date_end: '2018-09-01'
@@ -73,7 +73,7 @@ experience:
   - title: Assistant Consultant
     company: Tata Consultancy Services
     company_url: 'https://www.tcs.com/'
-    company_logo: tcs
+ #  company_logo: tcs
     location: India
     date_start: '2016-03-01'
     date_end: '2018-05-01'
@@ -81,7 +81,7 @@ experience:
   - title: Information Technology Analyst
     company: Tata Consultancy Services
     company_url: 'https://www.tcs.com/'
-    company_logo: tcs
+ # company_logo: tcs
     location: India
     date_start: '2013-03-02'
     date_end: '2016-03-01'
@@ -89,7 +89,7 @@ experience:
   - title: System Engineer
     company: Tata Consultancy Services
     company_url: 'https://www.tcs.com/'
-    company_logo: tcs
+ #  company_logo: tcs
     location: India
     date_start: '2012-02-01'
     date_end: '2013-03-01'
@@ -97,7 +97,7 @@ experience:
   - title: Assistant System Engineer
     company: Tata Consultancy Services
     company_url: 'https://www.tcs.com/'
-    company_logo: tcs
+ #  company_logo: tcs
     location: India
     date_start: '2010-02-01'
     date_end: '2012-01-31'
