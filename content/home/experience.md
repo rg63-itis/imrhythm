@@ -42,7 +42,7 @@ experience:
   # company_logo: Monotype
     location: India
     date_start: '2021-01-01'
-    #date_end: '2021-12-31'
+    date_end: ''
     description: India IT Head and Product Assurance Manager |2-
         Additional Responsibilities:
         
