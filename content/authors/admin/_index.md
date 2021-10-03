@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:test@example.org #'about/#contact'
+  link: mailto:mail@imrhythm.co.in #'about/#contact'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/rhythmgoyal
