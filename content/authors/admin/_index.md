@@ -78,4 +78,4 @@ IMRhythm Goyal, an enthusiast in leadership and technology domain, with over 11+
 In my free time I am either reading [**books**](https://www.goodreads.com/review/list/141080998-rg63-itis?shelf=read) or watching movies.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+/* {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. */
