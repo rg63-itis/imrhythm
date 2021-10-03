@@ -36,19 +36,6 @@ experience:
   #      * Modelling
   #      * Deploying
         
-  - title: IT Manager
-    company: Monotype Solutions India
-    company_url: 'https://www.monotype.com/'
-  # company_logo: Monotype
-    location: India
-    date_start: '2021-01-01'
-    date_end: ''
-    description: India IT Head and Product Assurance Manager |2-
-        Additional Responsibilities:
-        * Leading and Driving Site Reliability 
-        * Leading and Driving Application Security and Cyber Security
-        * Leading and Driving Automations in IT Operations and Deployments
-        
   - title: IT Associate Manager
     company: Monotype Solutions India
     company_url: 'https://www.monotype.com/'
