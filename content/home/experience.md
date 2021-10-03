@@ -43,7 +43,7 @@ experience:
     location: India
     date_start: '2021-01-01'
     #date_end: '2021-12-31'
-    description: India IT Head & Product Assurance Manager |2-
+    description: India IT Head and Product Assurance Manager |2-
        Additional Responsibilities:
         
         * Leading and Driving Site Reliability 
