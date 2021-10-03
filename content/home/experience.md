@@ -45,7 +45,6 @@ experience:
     date_end: ''
     description: India IT Head and Product Assurance Manager |2-
         Additional Responsibilities:
-        
         * Leading and Driving Site Reliability 
         * Leading and Driving Application Security and Cyber Security
         * Leading and Driving Automations in IT Operations and Deployments
