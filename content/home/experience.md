@@ -36,14 +36,27 @@ experience:
   #      * Modelling
   #      * Deploying
         
-  - title: Lead Consultant
+  - title: India IT Head & Product Assurance Manager
+    company: Monotype Solutions India
+    company_url: 'https://www.monotype.com/'
+    company_logo: Monotype
+    location: India
+    date_start: '2021-01-01'
+    #date_end: '2020-12-31'
+    description:  |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+  - title: India IT Head
     company: Monotype Solutions India
     company_url: 'https://www.monotype.com/'
     company_logo: Monotype
     location: India
     date_start: '2018-09-02'
-    #date_end: '2018-09-01'
-    description: India IT Head |2-
+    date_end: '2020-12-31'
+    description:  |2-
         Responsibilities include:
         
         * Analysing
