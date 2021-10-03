@@ -41,7 +41,7 @@ contact_links:
   - icon: envelope
     icon_pack: fas
     name: imrhythm
-    link: mailto:test@example.org #'about/#contact'
+    link: mailto:mail@imrhythm.co.in #'about/#contact'
   - icon: linkedin
     icon_pack: fab
     name: Let’s Connect
