@@ -29,7 +29,7 @@ experience:
     location: India
     date_start: '2021-01-01'
     date_end: ''
-    description: IT & Product Assurance Head |2-
+    description: |2-
         Responsibilities include:
         
         * Leading and Driving Site Reliability
