@@ -42,6 +42,14 @@ experience:
         * Budget Planning - Capex ,Opex ; Cost Optimasation; Procurement - Softwares, High End Hardwares, Lease Lines, etc
         * Asset Management ; Vendor Management ; Audit Compliance Mangement ; 
         * Global Network Administration ; DataCenter Mangement ; 
+  - title: Lead Consultant
+    company: Proval Tech
+    company_url: 'https://www.provaltech.com/'
+ #  company_logo: proval
+    location: India
+    date_start: '2018-05-28'
+    date_end: '2018-09-26'
+    description: Lead Consultant - MSP to various US Based Clients
   - title: Assistant Consultant
     company: Tata Consultancy Services
     company_url: 'https://www.tcs.com/'
@@ -53,7 +61,7 @@ experience:
         Responsibilities include:
         
         * Leading Offshore Delivery Center Setup Team
-        * Leading Linux/Unix Team
+        * Leading Linux/Unix Admin Team
         * Leading IT Operations Team
         * Project Management
         * Attending Client Meetings - Understanding & Gathering Technical and Security requirements 
