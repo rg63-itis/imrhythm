@@ -73,7 +73,7 @@ social:
 highlight_name: true
 ---
 
-IMRhythm Goyal, an enthusiast in leadership and technology domain, with over 11+ years of experience in IT industry. My interests are in areas of Leadership, Mentorship, Automation, Reliability, Security and Individual Finance Management. Currently working as a Product Assurance Manager in one of a World's Leading Font Company, am leading Squads of Security Enggineering, Security Analyst, Site Reliabilty, Product Opperations and IT Operation.
+IMRhythm Goyal, an enthusiast in leadership and technology domain, with over 11+ years of experience in IT industry. My interests are in areas of Leadership, Mentorship, Automation, Reliability, Security and Individual Finance Management. Currently working as a Product Assurance Manager in one of a World's Leading Font Company, leading Squads of Security Enggineering, Security Analyst, Site Reliabilty, Product Opperations and IT Operation.
 
 In my free time I am either reading [**books**](https://www.goodreads.com/review/list/141080998-rg63-itis?shelf=read) or watching movies.
 
