@@ -38,6 +38,14 @@ email: test@example.org
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
+  - icon: envelope
+    icon_pack: fas
+    name: imrhythm
+    link: mailto:test@example.org #'about/#contact'
+  - icon: linkedin
+    icon_pack: fab
+    name: Let’s Connect
+    link: https://www.linkedin.com/in/rhythmgoyal
   - icon: twitter
     icon_pack: fab
     name: Follow Me
