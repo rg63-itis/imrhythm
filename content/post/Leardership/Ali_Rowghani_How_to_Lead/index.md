@@ -41,20 +41,33 @@ categories:
 - Academic
 - Leadership
 ---
+##
 
-## Observation 1
+At some point of your professional journey you would feel need to be get really good at leading, motivating and retaining great people. For that one would need to develop a bit of mental model for how to think about leadership. Ali Rowghani with his experience have had three observations on leadership.
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+## Observation 1 : No Single Archetype
+
+  *"First observation on leadership is that there's not a single archetype. Anyone can be a great leader, but in order to do so, you have to be yourself"*
+
+There's no single archetype for a great leader. There is no single leadership persona, like a way you had to be, a way you had to act in order to be a great leader to be followed by people. 
+
+Great leaders come in all shapes and sizes, all personality types and characteristics. All great leaders are really different. Some are introverts, some are extroverts, some are technologists, others are storytellers, some are diplomatic and very calm and others are emotional and a little bit hotheaded, some are nerds and some are cool.
+
+Since leaders come in all shapes and sizes, it means that anyone fundamentally has the capabilities to become a great leader.You just need have to be yourself. You have to be authentic to who you are. You don't need to try to be someone else. Trying to imitate someone else forever,well, that's impossible.We humans are very good at detecting inauthenticity. We're really good at telling when someone is being fake and we don't generally follow or trust those that we find inauthentic.
+
+This simple sort of realization will help one become a much better leader.. 
+**Being Self .. Being Authentic**
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
-## Observation 2
+## Observation 2 : Three Fundamental Attributes
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+while there is no single archetype, great leaders nevertheless share three fundamental attributes and you kinda gotta be really good at these three things if you wanna be a great leader
+1. **Think and Communicate Clearly**
+2. 
+3. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
+4. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
+5. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
