@@ -43,7 +43,7 @@ categories:
 ---
 ##
 
-At some point of your professional journey you would feel need to be get really good at leading, motivating and retaining great people. For that one would need to develop a bit of mental model for how to think about leadership. Ali Rowghani with his experience have had three observations on leadership.
+At some point of your professional journey you would feel need to be get really good at leading, motivating and retaining great people. For that, one would need to develop a bit of mental model for how to think about leadership. Ali Rowghani with his experience have had three observations on leadership.
 
 ## Observation 1 : No Single Archetype
 
@@ -53,7 +53,7 @@ There's no single archetype for a great leader. There is no single leadership pe
 
 Great leaders come in all shapes and sizes, all personality types and characteristics. All great leaders are really different. Some are introverts, some are extroverts, some are technologists, others are storytellers, some are diplomatic and very calm and others are emotional and a little bit hotheaded, some are nerds and some are cool.
 
-Since leaders come in all shapes and sizes, it means that anyone fundamentally has the capabilities to become a great leader.You just need have to be yourself. You have to be authentic to who you are. You don't need to try to be someone else. Trying to imitate someone else forever,well, that's impossible.We humans are very good at detecting inauthenticity. We're really good at telling when someone is being fake and we don't generally follow or trust those that we find inauthentic.
+Since leaders come in all shapes and sizes, it means that anyone fundamentally has the capabilities to become a great leader.You just need have to be yourself. You have to be authentic to who you are. You don't need to try to be someone else. Trying to imitate someone else forever, well, that's impossible.We humans are very good at detecting inauthenticity. We're really good at telling when someone is being fake and we don't generally follow or trust those that we find inauthentic.
 
 This simple sort of realization will help one become a much better leader.. 
 **Being Self .. Being Authentic**
