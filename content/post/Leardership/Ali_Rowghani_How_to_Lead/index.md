@@ -3,7 +3,7 @@ title: How to Lead !
 subtitle: By Ali Rowghani
 
 # Summary for listings and search engines
-summary: Ali Rowghani, YC Partner and CEO of the YC Continuity Fund, from his experience working with great leaders has three observations on leadership.. These observations, answers many questions one might have in his journey of leadership.. Understand them in short here !
+summary: Ali Rowghani, YC Partner and CEO of the YC Continuity Fund, from his experience working with great leaders has **three observations on leadership**.. These observations, **answers many questions** one might have in his journey of leadership.. **Understand them in short here!**
 
 # Link this post with a project
 projects: []
