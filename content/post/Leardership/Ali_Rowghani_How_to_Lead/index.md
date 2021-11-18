@@ -3,10 +3,7 @@ title: How to Lead !
 subtitle: By Ali Rowghani
 
 # Summary for listings and search engines
-summary: Ali Rowghani, YC Partner and CEO of the YC Continuity Fund, from his experience working with great leaders has **three observations on leadership**.. These observations, **answers many questions** one might have in his journey of leadership.. 
-**Read If ** 
-- you want to become good at leading, motivating, and retaining great people
-- you aren't sure what type of leader you are
+summary: Ali Rowghani, YC Partner and CEO of the YC Continuity Fund, from his experience working with great leaders has **three observations on leadership**.. These observations, **answers many questions** one might have in his journey of leadership.. **Read If** you want to become good at leading, motivating, and retaining great people or you aren't sure what type of leader you are..
 
 # Link this post with a project
 projects: []
