@@ -58,7 +58,7 @@ Since leaders come in all shapes and sizes, it means that anyone fundamentally h
 This simple sort of realization will help one become a much better leader.. 
 **Being Self .. Being Authentic**
 
-{{< figure src="https://github.com/rg63-itis/imrhythm/blob/master/content/post/Leardership/Ali_Rowghani_How_to_Lead/observ1.jpeg" title="Being Self .. Being Authenti" >}}
+{{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/blob/master/content/post/Leardership/Ali_Rowghani_How_to_Lead/observ1.jpeg" title="Being Self .. Being Authenti" >}}
 
 ## Observation 2 : Three Fundamental Attributes
 
