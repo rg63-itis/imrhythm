@@ -81,7 +81,7 @@ while there is no single archetype, great leaders nevertheless share three funda
 
 ## Reference
 
-Checkout full video on [**YouTube**](https://www.ycombinator.com/library/6s-how-to-lead)
+Checkout full video on [**YouTube**](https://youtu.be/7HDO1p3VdYg)
 
 
 ## Credit
