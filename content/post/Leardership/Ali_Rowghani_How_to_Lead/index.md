@@ -55,7 +55,8 @@ Great leaders come in all shapes and sizes, all personality types and characteri
 
 Since leaders come in all shapes and sizes, it means that anyone fundamentally has the capabilities to become a great leader.You just need have to be yourself. You have to be authentic to who you are. You don't need to try to be someone else. Trying to imitate someone else forever, well, that's impossible.We humans are very good at detecting inauthenticity. We're really good at telling when someone is being fake and we don't generally follow or trust those that we find inauthentic.
 
-This simple sort of realization will help one become a much better leader.. 
+This simple sort of realization will help one become a much better leader..
+
 **Being Self .. Being Authentic**
 
 {{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/post/Leardership/Ali_Rowghani_How_to_Lead/observ1.jpeg" title="Being Self .. Being Authenti" >}}
@@ -67,8 +68,12 @@ While there is no single archetype, great leaders nevertheless share three funda
     {{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/post/Leardership/Ali_Rowghani_How_to_Lead/thinkandspeakclear.png" title="Think and Communicate Clearly" >}}
     If you're gonna have other people want to do the thing you're compelling them to do, you have to be able to paint a clear and compelling vision of the future for them to be able to follow.
     As you grow, as company grows, as any organization grows, your communication has to get better and better and better because you now have more diverse people who are hearing you. Now your processes that you use to communicate can no longer be one-on-one, but they have to scale as your audience itself scales.
-    The most important thing for great communication is that it needs to be simple
-2. 
+    The most important thing for great communication is that it needs to be simple. And to add simplicity in communication takes some time and preparation..There's an example here of Woodrow Wilson, President Woodrow Wilson, who was once asked how long it would take him...he was asked to give a speech and he was asked, how long would he...would he need to prepare? And he said, "Well, it depends how long you guys want me to talk. If it's a 10-minute speech, then I'm gonna need 2 weeks to prepare for it. If I can talk for half an hour, I only need a week. But if I can talk as long as I want to, then I don't need any preparation at all. I can speak right now."
+    This example in effect captures the point, if you wanna communicate simply, if you want to express things that are **memorable** and **that can be repeated**, it takes time to prepare.
+    So how do you get good at this? clear and concise communication comes more naturally to some people. For others, practice does make one better when it comes to communication. 
+    ***It pays to work on communicating clearly***
+    One must realize that clarity of thought precedes clarity of language. So you have to think clearly to communicate clearly. One need to free up time in one's schedule to just think and try to jot down one's thoughts and try to think about how do I express these thoughts in clearer and clearer ways. Next step is practice on whats prepaored before delivery.
+2. **Good Judgment About People**
 3. 
 
 ## Observation 3
