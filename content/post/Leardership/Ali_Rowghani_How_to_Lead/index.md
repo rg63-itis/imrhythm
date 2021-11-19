@@ -62,22 +62,17 @@ This simple sort of realization will help one become a much better leader..
 
 ## Observation 2 : Three Fundamental Attributes
 
-while there is no single archetype, great leaders nevertheless share three fundamental attributes and you kinda gotta be really good at these three things if you wanna be a great leader
+While there is no single archetype, great leaders nevertheless share three fundamental attributes and you kinda gotta be really good at these three things if you wanna be a great leader
 1. **Think and Communicate Clearly**
+    {{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/post/Leardership/Ali_Rowghani_How_to_Lead/thinkandspeakclear.png" title="Think and Communicate Clearly" >}}
+    If you're gonna have other people want to do the thing you're compelling them to do, you have to be able to paint a clear and compelling vision of the future for them to be able to follow.
+    As you grow, as company grows, as any organization grows, your communication has to get better and better and better because you now have more diverse people who are hearing you. Now your processes that you use to communicate can no longer be one-on-one, but they have to scale as your audience itself scales.
+    The most important thing for great communication is that it needs to be simple
 2. 
-3. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-4. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-5. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
-
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+3. 
 
 ## Observation 3
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
-
-{{< figure src="https://github.com/rg63-itis/imrhythm/blob/master/content/post/Leardership/Ali_Rowghani_How_to_Lead/observ1.jpeg" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
 ## Reference
 
