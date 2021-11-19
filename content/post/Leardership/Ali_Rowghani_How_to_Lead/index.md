@@ -47,7 +47,7 @@ At some point of your professional journey you would feel need to be get really 
 
 ## Observation 1 : No Single Archetype
 
-  *"First observation on leadership is that there's not a single archetype. Anyone can be a great leader, but in order to do so, you have to be yourself"*
+  **"*First observation on leadership is that there's not a single archetype. Anyone can be a great leader, but in order to do so, you have to be yourself*"**
 
 There's no single archetype for a great leader. There is no single leadership persona, like a way you had to be, a way you had to act in order to be a great leader to be followed by people. 
 
