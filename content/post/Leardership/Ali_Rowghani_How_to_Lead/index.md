@@ -67,13 +67,13 @@ To quickly understand why/how these obersvation matters... How to be good at the
 
 ## Observation 1 : No Single Archetype
 
-There is no single leadership persona, like a way you had to be, a way you had to act in order to be a great leader to be followed by people. 
+There is no single leadership persona, like a way you have to be, a way you have to act in order to be a great leader to be followed by people. 
 
-Great leaders come in all shapes and sizes, all personality types and characteristics. All great leaders are really different. Some are introverts, some are extroverts, some are technologists, others are storytellers, some are diplomatic and very calm and others are emotional and a little bit hotheaded, some are nerds and some are cool.
+Great leaders come in all shapes and sizes, all personality types and characteristics. All great leaders are really different. Some are introverts, some are extroverts, some are technologists, others are storytellers, some are diplomatic and very calm and others are emotional and a little bit hot-headed, some are nerds and some are cool.
 
-It means that anyone fundamentally has the capabilities to become a great leader. You just need have to be yourself. You don't need to try to be someone else. Trying to imitate someone else forever, well, that's impossible. We humans are very good at detecting inauthenticity. We're really good at telling when someone is being fake and we don't generally follow or trust those that we find inauthentic.
+It means that anyone fundamentally has the capabilities to become a great leader. You just need to be yourself. You don't need to try to be someone else. Trying to imitate someone else forever, well... that's impossible. Also we humans are very good at detecting inauthenticity. We're really good at telling when someone is being fake and we don't generally follow or trust those that we find inauthentic.
 
-This simple sort of realization will help one become a much better leader..
+This simple sort of realization will help you become a much better leader..
 
 **Being Self .. Being Authentic**
 
