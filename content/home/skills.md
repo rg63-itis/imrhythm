@@ -20,10 +20,22 @@ feature:
   icon: aws
   icon_pack: fab
   name: AWS Soultion Arch
-- description:Certified
-  icon: microsoft 
+- description: Certified
+  icon: network-wired
   icon_pack: fas
-  name:  MCSE Windows Server 2008
+  name: CCNA 
+- description: Administration
+  icon: docker
+  icon_pack: fas
+  name: Docker 
+- description: Ansible, Terraform
+  icon: magic
+  icon_pack: fas
+  name: Automation   
+- description: shell, powershell, 
+  icon: terminal
+  icon_pack: fas
+  name: Scripting 
   
 
 # Uncomment to use emoji icons.
