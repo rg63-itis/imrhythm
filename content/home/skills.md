@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: AWS Soultion Arch
 - description: Certified
-  icon: microsoft 
+  icon: fa-microsoft 
   icon_pack: fas
   name: MCSE Windows Server 2008
 - description: Ansible, Terraform
@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: Automation   
 - description:
-  icon: docker
+  icon: fa-docker
   icon_pack: fas
   name: Docker 
 - description:
