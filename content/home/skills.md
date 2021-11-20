@@ -16,30 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Certified
+- description:
   icon: aws
   icon_pack: fab
   name: AWS Soultion Arch
 - description: Certified
-  icon: network-wired
+  icon: microsoft 
   icon_pack: fas
-  name: CCNA 
-- description: Administration
-  icon: docker
-  icon_pack: fas
-  name: Docker 
+  name: MCSE Windows Server 2008
 - description: Ansible, Terraform
   icon: magic
   icon_pack: fas
   name: Automation   
+- description:
+  icon: docker
+  icon_pack: fas
+  name: Docker 
+- description:
+  icon: network-wired
+  icon_pack: fas
+  name: CCNA 
 - description: shell, powershell, 
   icon: terminal
   icon_pack: fas
   name: Scripting
-- description: Certified
-  icon: microsoft 
-  icon_pack: fas
-  name: MCSE Windows Server 2008
   
 
 # Uncomment to use emoji icons.
