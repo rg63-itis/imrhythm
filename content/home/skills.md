@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description:
   icon: tasks-alt
-  icon_pack: fab
+  icon_pack: fas
   name: Project Managment
 - description:
   icon: aws
@@ -50,7 +50,7 @@ feature:
   name: Office 365 Administration
 - description: Redhat, Centos, Ubuntu 
   icon: linux
-  icon_pack: fas
+  icon_pack: fab
   name: Linux Administration 
 - description: Owasp Webapp Top10, WAF, EDR, SIEM, SSL, BurpSuite
   icon: shield-alt
