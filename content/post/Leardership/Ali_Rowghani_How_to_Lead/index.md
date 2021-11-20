@@ -66,7 +66,7 @@ Which implies, to be a good leader, one needs to:
 To quickly understand why/how these obersvation matters... How to be good at these.. read as follows..
 
 ## Observation 1 : No Single Archetype
-
+##
 There is no single leadership persona, like a way you have to be, a way you have to act in order to be a great leader to be followed by people. 
 
 Great leaders come in all shapes and sizes, all personality types and characteristics. All great leaders are really different. Some are introverts, some are extroverts, some are technologists, others are storytellers, some are diplomatic and very calm and others are emotional and a little bit hot-headed, some are nerds and some are cool.
