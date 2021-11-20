@@ -84,9 +84,9 @@ While there is no single archetype, great leaders nevertheless share three funda
 1. **Think and Communicate Clearly**   
     If you're gonna have other people want to do the thing you're compelling them to do, you have to be able to **paint a clear and compelling vision of the future** for them to be able to follow.
     ##    
-    As you grow, as company grows, as any organization grows, your communication has to get better and better and better because you now have more diverse people who are hearing you. Now your processes that you use to communicate can no longer be one-on-one, but they have to scale as your audience itself scales.
+    As you grow, as company grows, as any organization grows, your communication has to **get better and better and better** because **more diverse people are hearing you**. Now your processes that you use to communicate can no longer be one-on-one, but they have to **scale as your audience itself scales**.
     ##
-    The most important thing for great communication is that it needs to be simple. And to add simplicity in communication takes some time and preparation..There's an example here of Woodrow Wilson, President Woodrow Wilson, who was once asked how long it would take him...he was asked to give a speech and he was asked, how long would he...would he need to prepare? And he said, "Well, it depends how long you guys want me to talk. If it's a 10-minute speech, then I'm gonna need 2 weeks to prepare for it. If I can talk for half an hour, I only need a week. But if I can talk as long as I want to, then I don't need any preparation at all. I can speak right now."
+    The most important thing for great communication is that it **needs to be simple**. And to add simplicity in communication takes some time and preparation..There's an example here of Woodrow Wilson, President Woodrow Wilson, who was once asked how long it would take him...he was asked to give a speech and he was asked, how long would he...would he need to prepare? And he said, "Well, it depends how long you guys want me to talk. If it's a 10-minute speech, then I'm gonna need 2 weeks to prepare for it. If I can talk for half an hour, I only need a week. But if I can talk as long as I want to, then I don't need any preparation at all. I can speak right now."
     ##
     This example in effect captures the point, if you wanna communicate simply, if you want to express things that are **memorable** and **that can be repeated**, it takes time to prepare.
     ##
@@ -94,7 +94,7 @@ While there is no single archetype, great leaders nevertheless share three funda
     ##
     ***It pays to work on communicating clearly***
     ##
-    One must realize that clarity of thought precedes clarity of language. So you have to think clearly to communicate clearly. One need to free up time in one's schedule to just think and try to jot down one's thoughts and try to think about how do I express these thoughts in clearer and clearer ways. Next step is practice on whats prepaored before delivery.
+    One must realize that clarity of thought precedes clarity of language. So you have to **think clearly to communicate clearly**. One need to **free up time** in one's schedule to just think and try to **jot down one's thoughts** and try to **think about how do I express these thoughts in clearer and clearer ways**. Next step is **practice** on whats prepared.
 ##    
 2. **Good Judgment About People**
      The decisions that you make in terms of who to empower as leaders in your organization have a really profound impact on the future of the company. They become extensions of you so you have to make really good choices in terms of who you empower. Bad decisions may happen, but if you make consistently bad decisions, then your authority, your followership, the trust that people have in you will diminish.
