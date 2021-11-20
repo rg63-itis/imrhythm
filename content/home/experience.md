@@ -65,6 +65,7 @@ experience:
           * Attending Client Meetings - Understanding & Gathering Technical and Security requirements 
           * IT Infra Designing - Passive and Active
           * Procement & Delivery Mangment - Softwares, Hardwares, Leased Lines , etc  
+          * Enhancing security and reliability of existing ODCs
         * Leading Linux/Unix Admin Team - Responsible for administration and management of Linux/Unix infra for few major client projects at all North India branches of TCS as well as for TCS's internal infra
           * Unix & Linux Administration ( Solaris, Centos, Ubuntu, RHEL )
           * Backup Administration & Management
