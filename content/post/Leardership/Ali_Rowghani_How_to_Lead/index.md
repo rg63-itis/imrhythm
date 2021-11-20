@@ -48,10 +48,12 @@ categories:
   Recently I came accross a very good online content by Ali Rowghani - YC Partner and CEO of the YC Continuity Fund. From his experience working with (many many) great leaders, he has made **three observations on leadership**.. These observations demystify what skills one need to be great at leadership.
 
 **Observation 1 :** There's no Single Archetype for a great leader
+##
 **Observation 2 :** All Great Leaders have Three Fundamental Attributes
   - They can Think and Communicate Clearly
   - They have Good Judgment about people
   - They have Strong Personal Integrity and Commitment
+##
 **Observation 3 :** They are able to build Trust in employees, investors, customers, users, and so on.
 
 Which implies, to be a good leader, one needs to:
