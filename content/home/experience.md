@@ -61,7 +61,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Leading Offshore Delivery Center(ODC) Setup Team - Responsible for all ODC setup at all North India branches of TCS
+        * ***Leading Offshore Delivery Center(ODC) Setup Team*** - Responsible for all ODC setup at all North India branches of TCS
           * Attending Client Meetings - Understanding & Gathering Technical and Security requirements 
           * IT Infra Designing - Passive and Active
           * Procement & Delivery Mangment - Softwares, Hardwares, Leased Lines , etc  
