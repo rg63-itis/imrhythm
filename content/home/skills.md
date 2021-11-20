@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
-  icon: tasks-alt
+  icon: project-diagram
   icon_pack: fas
   name: Project Managment
 - description:
