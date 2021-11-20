@@ -120,12 +120,10 @@ While there is no single archetype, great leaders nevertheless share three funda
 ## Observation 3 : Build Trust
 ##
 
-## Reference
 
-Checkout full video on [**YouTube**](https://youtu.be/7HDO1p3VdYg)
 
 
 ## Credit
-- Ali Rowghani
+- **Ali Rowghani**. Checkout full video on [YouTube](https://youtu.be/7HDO1p3VdYg)
 - [**Y Combinator**](https://www.ycombinator.com/)
 - [**Startup School**](https://www.startupschool.org/)
