@@ -45,9 +45,18 @@ categories:
 
 At some point of your professional journey you would feel need to be get really good at leading, motivating and retaining great people. For that, one would need to develop a bit of mental model for how to think about leadership. Ali Rowghani with his experience have had three observations on leadership.
 
+## Observation 1 : There's no single archetype for a great leader
+## Observation 2 : All Great Leaders Have Three Fundamental Attributes
+  ### They can Think and Communicate Clearly
+  ### They have Good Judgment about people
+  ### They have Strong Personal Integrity and Commitment
+## Observation 3 : They are able to build Trust in employees, investors, customers, users, and so on.
+
+To quickly understand why/how these obersvation matters... How to be good at these.. read as follows..
+
 ## Observation 1 : No Single Archetype
 
-  **"*First observation on leadership is that there's not a single archetype. Anyone can be a great leader, but in order to do so, you have to be yourself*"**
+**"*First observation on leadership is that there's not a single archetype. Anyone can be a great leader, but in order to do so, you have to be yourself*"**
 
 There's no single archetype for a great leader. There is no single leadership persona, like a way you had to be, a way you had to act in order to be a great leader to be followed by people. 
 
@@ -74,9 +83,15 @@ While there is no single archetype, great leaders nevertheless share three funda
     ***It pays to work on communicating clearly***
     One must realize that clarity of thought precedes clarity of language. So you have to think clearly to communicate clearly. One need to free up time in one's schedule to just think and try to jot down one's thoughts and try to think about how do I express these thoughts in clearer and clearer ways. Next step is practice on whats prepaored before delivery.
 2. **Good Judgment About People**
-3. 
+     The decisions that you make in terms of who to empower as leaders in your organization have a really profound impact on the future of the company. They become extensions of you so you have to make really good choices in terms of who you empower. Bad decisions may happen, but if you make consistently bad decisions, then your authority, your followership, the trust that people have in you will diminish.
+      So how do you get good at this one? Again, good judgment/good EQ comes more naturally to some people. For others, advice here is, when you're starting to recruit for any position in your company, you should try to meet a lot of people. And just talk to them about their jobs and their backgrounds and how they came to be where they are. Ask them about how they lead people, what they think goes well, doesn't go well. This type of kind of educational interview will really help you, will really help hone your judgment about what's good and what's bad and who's good and who's bad. And don't think that you're wasting time in doing this. You should put real time and energy into it. You should try to even meet people who you have no hope of hiring, because it's important to kind of get a sense for what really great leaders are like, what great, engineering managers are like, what great sales leaders are like, etc. **Don't cut corners. Spend time meeting people and honing your instincts.**
+       As I mentioned earlier, bad decisions may happen. While recruiting, some of those people will not work out. Just make sure that you view the hiring process as something that you can learn from every single time and just be very diligent in terms of learning, who you hired, why you hired that person, what went right, what went wrong in terms of their original hire, their onboarding and their career at the company. Be self-reflective about the development of people in your organization and your own choices as to who you're empowering with authority.
+3. **Strong Personal Integrity and Commitment**
+    It means standing for something meaningful beyond themselves and being motivated by things outside of their narrow personal interests. It means avoiding behavior that diminishes trust, diminishes credibility in a leader like favoritism, conflicts of interests, inappropriate language, inappropriate work relationships, etc.
+     Commitment means making your work into a life mission in ways that inspire other people. It means giving it your all. People see this and they respect it and they follow it. 
+     So how do you get good at this? Hold yourself accountable to the transparency test - i.e aAsk yourself if all of your private communications and behavior towards others were to be transparent to everyone at the company, would you be embarrassed by any of it? We obviously all make mistakes, but patterns of mistakes are bad and mistakes that damage your integrity are the worst of all.
 
-## Observation 3
+## Observation 3 : Build Trust
 
 
 ## Reference
