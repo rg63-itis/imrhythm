@@ -25,23 +25,24 @@ experience:
   - title: India IT Head
     company: Monotype Solutions India
     company_url: 'https://www.monotype.com/'
-  #  company_logo: org-gc
+  # company_logo: org-gc
     location: India
     date_start: '2018-09-28'
     date_end: ''
     description: |2-
         Responsibilities include:
         
+        * Leading and Driving Product Assurance
         * Leading and Driving Site Reliability
         * Leading and Driving Application Security and Cyber Security
         * Leading and Driving Automations in IT Operations and Deployments
         * Project Management 
-        * Defining IT Policies and Practices
-        * Enhancing IT Services
-        * Team Building ; Hiring ; Training & Mentoring
-        * Budget Planning - Capex ,Opex ; Cost Optimasation; Procurement - Softwares, High End Hardwares, Lease Lines, etc
-        * Asset Management ; Vendor Management ; Audit Compliance Mangement ; 
-        * Global Network Administration ; DataCenter Mangement ; 
+        * Team Building ; Hiring ; Training & Mentoring ( ICs and Managers )
+        * (Ex) Defining IT Policies and Practices
+        * (Ex) Enhancing IT Services
+        * (Ex) Budget Planning - Capex ,Opex ; Cost Optimasation; Procurement - Softwares, High End Hardwares, Lease Lines, etc
+        * (Ex) Asset Management ; Vendor Management ; Audit Compliance Mangement ; 
+        * (Ex) Global Network Administration ; DataCenter Mangement ; 
   - title: Lead Consultant
     company: Proval Tech
     company_url: 'https://www.provaltech.com/'
@@ -60,27 +61,27 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Leading Offshore Delivery Center Setup Team
-        * Leading Linux/Unix Admin Team
+        * Leading Offshore Delivery Center(ODC) Setup Team - Responsible for all ODC setup at all North India branches of TCS
+          * Attending Client Meetings - Understanding & Gathering Technical and Security requirements 
+          * IT Infra Designing - Passive and Active
+          * Procement & Delivery Mangment - Softwares, Hardwares, Leased Lines , etc  
+        * Leading Linux/Unix Admin Team - Responsible for administration and management of Linux/Unix infra for few major client projects at all North India branches of TCS as well as for TCS's internal infra
+          * Unix & Linux Administration ( Solaris, Centos, Ubuntu, RHEL )
+          * Backup Administration & Management
         * Leading IT Operations Team
+          * Audit Compliance Mangement
+          * Capex and Opex Planning
+          * Software and License Management
+          * Asset Management
+          * DataCente Administration & Mangement        
+          * Network Administration 
+          * Windows Server ( AD, DNS, DHCP, EDR, etc ) & Desktop Administration 
+          * Deployment Administration & Management - OS, Softwares and Win Patches
+          * Change Management ( ITIL Process )
+          * IT Helpdesk Engg - L1, L2, L3 ( ITIL Process )
         * Project Management
-        * Attending Client Meetings - Understanding & Gathering Technical and Security requirements 
-        * IT Infra Designing - Passive and Active
-        * Procement & Delivery Mangment - Softwares, Hardwares, Leased Lines , etc  
+          * Service Status Review, Analysis & Monthly Reporting
         * Team Management - Hiring ; Training & Mentoring
-        * Service Status Review, Analysis & Monthly Reporting
-        * Audit Compliance Mangement
-        * Capex and Opex Planning
-        * Software and License Management
-        * Asset Management
-        * DataCente Administration & Mangement        
-        * Network Administration 
-        * Unix & Linux Administration ( Solaris, Centos, Ubuntu, RHEL )
-        * Windows Server ( AD, DNS, DHCP, EDR, etc ) & Desktop Administration 
-        * Backup Administration & Management
-        * Deployment Administration & Management - OS, Softwares and Win Patches
-        * Change Management ( ITIL Process )
-        * IT Helpdesk Engg - L1, L2, L3 ( ITIL Process )
         
         
 design:
