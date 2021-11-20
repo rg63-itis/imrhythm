@@ -47,9 +47,9 @@ At some point of your professional journey you would feel need to be get really 
 
 ## Observation 1 : There's no single archetype for a great leader
 ## Observation 2 : All Great Leaders Have Three Fundamental Attributes
-  ### They can Think and Communicate Clearly
-  ### They have Good Judgment about people
-  ### They have Strong Personal Integrity and Commitment
+  - They can Think and Communicate Clearly
+  - They have Good Judgment about people
+  - They have Strong Personal Integrity and Commitment
 ## Observation 3 : They are able to build Trust in employees, investors, customers, users, and so on.
 
 To quickly understand why/how these obersvation matters... How to be good at these.. read as follows..
