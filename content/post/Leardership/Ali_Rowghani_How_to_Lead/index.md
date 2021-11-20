@@ -78,7 +78,7 @@ This simple sort of realization will help you become a much better leader..
 **Being Self .. Being Authentic**
 ##
 ## Observation 2 : Three Fundamental Attributes
-
+##
 While there is no single archetype, great leaders nevertheless share three fundamental attributes and you kinda gotta be really good at these three things if you wanna be a great leader
 ##
 1. **Think and Communicate Clearly**   
@@ -118,7 +118,7 @@ While there is no single archetype, great leaders nevertheless share three funda
     So how do you get good at this? Hold yourself accountable to the transparency test - i.e aAsk yourself if all of your private communications and behavior towards others were to be transparent to everyone at the company, would you be embarrassed by any of it? We obviously all make mistakes, but patterns of mistakes are bad and mistakes that damage your integrity are the worst of all.
 ##
 ## Observation 3 : Build Trust
-
+##
 
 ## Reference
 
