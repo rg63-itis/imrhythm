@@ -14,6 +14,10 @@ main:
     url: post/Leardership
     weight: 10
     parent: Posts
+  - name: Self Management
+    url: post/self
+    weight: 15
+    parent: Posts   
   - name: Information Security
     url: post/Security
     weight: 20
