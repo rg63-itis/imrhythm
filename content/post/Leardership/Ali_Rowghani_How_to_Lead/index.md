@@ -82,7 +82,7 @@ This simple sort of realization will help you become a much better leader..
 While there is no single archetype, great leaders nevertheless share three fundamental attributes and you kinda gotta be really good at these three things if you wanna be a great leader
 ##
 1. **Think and Communicate Clearly**   
-    If you're gonna have other people want to do the thing you're compelling them to do, you have to be able to paint a clear and compelling vision of the future for them to be able to follow.
+    If you're gonna have other people want to do the thing you're compelling them to do, you have to be able to **paint a clear and compelling vision of the future** for them to be able to follow.
     ##    
     As you grow, as company grows, as any organization grows, your communication has to get better and better and better because you now have more diverse people who are hearing you. Now your processes that you use to communicate can no longer be one-on-one, but they have to scale as your audience itself scales.
     ##
