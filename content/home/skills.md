@@ -17,6 +17,10 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
+  icon: tasks-alt
+  icon_pack: fab
+  name: Project Managment
+- description:
   icon: aws
   icon_pack: fab
   name: AWS Soultion Arch
@@ -32,15 +36,26 @@ feature:
   icon: docker
   icon_pack: fab
   name: Docker 
-- description:
-  icon: network-wired
-  icon_pack: fas
-  name: CCNA 
 - description: shell, powershell, 
   icon: terminal
   icon_pack: fas
   name: Scripting
-  
+- description:
+  icon: network-wired
+  icon_pack: fas
+  name: CCNA 
+- description:
+  icon: windows 
+  icon_pack: fab
+  name: Office 365 Administration
+- description: Redhat, Centos, Ubuntu 
+  icon: linux
+  icon_pack: fas
+  name: Linux Administration 
+- description: Owasp Webapp Top10, WAF, EDR, SIEM, SSL, BurpSuite
+  icon: shield-alt
+  icon_pack: fas
+  name: Security Analysis and Engineering
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
