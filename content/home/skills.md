@@ -35,7 +35,11 @@ feature:
 - description: shell, powershell, 
   icon: terminal
   icon_pack: fas
-  name: Scripting 
+  name: Scripting
+- description: Certified
+  icon: microsoft 
+  icon_pack: fas
+  name: MCSE Windows Server 2008
   
 
 # Uncomment to use emoji icons.
