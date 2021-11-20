@@ -94,11 +94,18 @@ While there is no single archetype, great leaders nevertheless share three funda
     ##
     ***It pays to work on communicating clearly***
     ##
-    One must realize that clarity of thought precedes clarity of language. So you have to **think clearly to communicate clearly**. One need to **free up time** in one's schedule to just think and try to **jot down one's thoughts** and try to **think about how do I express these thoughts in clearer and clearer ways**. Next step is **practice** on whats prepared.
+    One must realize that clarity of thought precedes clarity of language. So you have to **think clearly to communicate clearly**. 
+      - One need to **free up time** in one's schedule to just think and 
+      - try to **jot down one's thoughts** and 
+      - try to **think about how do I express these thoughts in clearer and clearer ways**. 
+      - Next step is **practice** on whats prepared.
 ##    
 2. **Good Judgment About People**
+    ##
      The decisions that you make in terms of who to empower as leaders in your organization have a really profound impact on the future of the company. They become extensions of you so you have to make really good choices in terms of who you empower. Bad decisions may happen, but if you make consistently bad decisions, then your authority, your followership, the trust that people have in you will diminish.
-      So how do you get good at this one? Again, good judgment/good EQ comes more naturally to some people. For others, advice here is, when you're starting to recruit for any position in your company, you should try to meet a lot of people. And just talk to them about their jobs and their backgrounds and how they came to be where they are. Ask them about how they lead people, what they think goes well, doesn't go well. This type of kind of educational interview will really help you, will really help hone your judgment about what's good and what's bad and who's good and who's bad. And don't think that you're wasting time in doing this. You should put real time and energy into it. You should try to even meet people who you have no hope of hiring, because it's important to kind of get a sense for what really great leaders are like, what great, engineering managers are like, what great sales leaders are like, etc. **Don't cut corners. Spend time meeting people and honing your instincts.**
+     ##
+      So how do you get good at this one? Again, good judgment/good EQ comes more naturally to some people. Others should try to **meet a lot of people**. And just talk to them about their jobs and their backgrounds and how they came to be where they are. Ask them about how they lead people, what they think goes well, doesn't go well. This type of kind of educational interview will really help you, will really help hone your judgment about what's good and what's bad and who's good and who's bad. And don't think that you're wasting time in doing this. You should put real time and energy into it. You should try to even meet people who you have no hope of hiring, because it's important to kind of get a sense for what really great leaders are like, what great, engineering managers are like, what great sales leaders are like, etc. **Don't cut corners. Spend time meeting people and honing your instincts.**
+       ##
        As I mentioned earlier, bad decisions may happen. While recruiting, some of those people will not work out. Just make sure that you view the hiring process as something that you can learn from every single time and just be very diligent in terms of learning, who you hired, why you hired that person, what went right, what went wrong in terms of their original hire, their onboarding and their career at the company. Be self-reflective about the development of people in your organization and your own choices as to who you're empowering with authority.
 ##       
 3. **Strong Personal Integrity and Commitment**
