@@ -50,7 +50,7 @@ experience:
     location: India
     date_start: '2018-05-28'
     date_end: '2018-09-26'
-    description: **Lead Consultant** - MSP to various US Based Clients
+    description: Lead Consultant - MSP to various US Based Clients
   - title: Assistant Consultant
     company: Tata Consultancy Services
     company_url: 'https://www.tcs.com/'
