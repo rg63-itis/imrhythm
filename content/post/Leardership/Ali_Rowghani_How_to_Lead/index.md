@@ -26,7 +26,7 @@ image:
   caption: ""  
   #'Image credit: [**Unsplash**](https://www.ycombinator.com/library/6s-how-to-lead)'
   focal_point: ""
-  placement: 3
+  placement: 0
   preview_only: false
 
 authors:
