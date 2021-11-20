@@ -16,18 +16,31 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: Certified
+  icon: aws
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  name:  AWS Soultion Arch
+- description:Certified
+  icon: microsoft 
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name:  MCSE Windows Server 2008
+- description: Certified
+  icon: network-wired
   icon_pack: fas
-  name: Photography
+  name: CCNA 
+- description: Administration
+  icon: docker
+  icon_pack: fas
+  name: Docker 
+- description: Ansible, Terraform
+  icon: magic
+  icon_pack: fas
+  name: Automation   
+- description: shell, powershell, 
+  icon: terminal
+  icon_pack: fas
+  name: Scripting 
+  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
