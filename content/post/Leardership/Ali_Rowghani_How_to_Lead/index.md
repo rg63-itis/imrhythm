@@ -57,10 +57,11 @@ categories:
 **Observation 3 :** They are able to build Trust in employees, investors, customers, users, and so on.
 
 Which implies, to be a good leader, one needs to:
-- be Authentic to who he/she is
-- Think and Communicate Clearly
-- Have Good Judgement about people
-- Present Strong Personal Integrity and Commitment
+- Be **Authentic** to who he/she is
+- **Think** and **Communicate** Clearly
+- Have **Good Judgement** about people
+- Present **Strong Personal Integrity** and **Commitment**
+- Build 360 **Trust**
 
 To quickly understand why/how these obersvation matters... How to be good at these.. read as follows..
 
