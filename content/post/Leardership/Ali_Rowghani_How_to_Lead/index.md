@@ -119,8 +119,11 @@ While there is no single archetype, great leaders nevertheless share three funda
 ##
 ## Observation 3 : Build Trust
 ##
-
-
+  Across any organization, the job of every leader is to build trust, trust in employees, investors, customers, users, and so on. **Building trust is both an art and a science.** So the science of trust is fairly simple. You have to be right about the empirical questions in your business. If you're predicting,we should build this product or we should try to sell to this customer or, we should try to market the product in this way, these things over time, these choices get proven right or wrong. Hopefully you're right much more than you're wrong because if you're consistently wrong, then you diminish the amount of trust people will have in you. 
+   ##
+   The second aspect of building trust is more of an art. This is about being able to show empathy and good judgment, having timing, good timing when you confront issues. It's about striving for something bigger than yourself and not being selfish or self-centered. 
+   ##
+   So how do you get good at this? Building the art of trust is a more delicate topic. And again, practice makes you better, but I'd always try to keep "it" in mind..with every step that you take forward, try to optimize for trust as leaders. You're gonna have lots of hard decisions to make in the coming years. You'll have to fire people. You'll have to admit mistakes to your customers. You'll have to say no to people because you disagree with them and their ideas. **Try to view every challenge as a trust building opportunity.** And as you evaluate one course of action versus another, ask yourself which path is gonna generate more trust in you as a leader, and always try to choose that path.
 
 
 ## Credit
