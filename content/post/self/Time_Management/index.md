@@ -42,10 +42,7 @@ categories:
 - Self Management
 - Time Mangement
 ---
-##
-
-  
-**Essentialism is the Key** 
+##**Essentialism is the Key** 
 
 ***Get Right Things Done !!.. NOT more things done..***
 
@@ -57,8 +54,7 @@ To be able to make that decision about where to invest your time and energy, one
 
 **Plan out your work and Work out your plan!**
 
-##
-**Toolkits that help Manage Focus** 
+##**Toolkits that help Manage Focus** 
 
 ***1. Eisenhower Decission Matrix***
 
