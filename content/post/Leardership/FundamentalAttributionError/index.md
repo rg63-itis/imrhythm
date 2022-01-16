@@ -48,7 +48,7 @@ categories:
 **Short Story Shorter** 
 
 If a team member at work makes a mistake, we’re more likely to attribute it to their personality, character, or skill level. However, if WE make the same mistake, we’re more likely to attribute it to the situation (i.e., we were rushing, felt tired, or someone else’s fault).
-While this might make sense on an abstract level, you’re probably wondering, “So why does this matter? What are the implications in my life?” Here is a detailed blog about the same, nicely written.
+While this might make sense on an abstract level, you’re probably wondering, “So why does this matter? What are the implications in my life?” [Here](https://lnkd.in/gGwwAeyy) is a detailed blog about the same, nicely written.
 
 
 ## Credit
