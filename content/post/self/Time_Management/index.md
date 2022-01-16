@@ -56,12 +56,9 @@ It very important to understand **Wise Investment of Your Time & Energy**
 And to be able to make that decision about where to invest your time and energy, one "MUST" find time to think what is required/right thing to be done & what "MUST" be skipped
 
 ##
-**Eisenhower Decission Matrix :** All Great Leaders have Three Fundamental Attributes
-  - They can Think and Communicate Clearly
-  - They have Good Judgment about people
-  - They have Strong Personal Integrity and Commitment
+**Eisenhower Decission Matrix :** 
 ##
-
+**Pareto 80-20 Rule**
 
 
 ## Credit
