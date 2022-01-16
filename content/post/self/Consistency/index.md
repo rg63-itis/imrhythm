@@ -43,7 +43,3 @@ categories:
 ---
 ## Consistency
 {{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/post/self/Consistency/consistency.jpeg" title="Consistency is key to success !!" >}}
-
-
-## Credit
-**Simon Sinek** Checkout full video on [Youtube](https://www.linkedin.com/feed/update/urn:li:activity:6884515680926916608/)
