@@ -51,4 +51,4 @@ Trusting is a necessary risk for a leader. If we give people a sense of control 
 Check our 73sec video about the same [here](https://www.linkedin.com/feed/update/urn:li:activity:6884515680926916608/)
 
 ## Credit
-**Simon Sinek** Checkout full video on [Youtube](https://www.linkedin.com/feed/update/urn:li:activity:6884515680926916608/)
+**Simon Sinek** Checkout full video on a post at [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6884515680926916608/)
