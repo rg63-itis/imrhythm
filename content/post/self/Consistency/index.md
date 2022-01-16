@@ -34,12 +34,12 @@ authors:
 
 tags:
 - Academic
-- Leadership
-- Trust
+- Self Management
+- Consistency
 
 categories:
 - Academic
-- Leadership
+- Consistency
 ---
 ## Consistency
 {{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/post/self/Consistency/consistency.jpeg" title="Consistency is key to success !!" >}}
