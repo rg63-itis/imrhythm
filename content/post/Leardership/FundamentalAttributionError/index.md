@@ -34,13 +34,14 @@ authors:
 
 tags:
 - Academic
-- Self Management
-- Time Mangement
+- Leadership
+- Fundamental Attribution Error
+- Emotional quotient
 
 categories:
 - Academic
-- Self Management
-- Time Mangement
+- Leadership
+- Emotional quotient
 ---
 ## Short Story Shorter
 
