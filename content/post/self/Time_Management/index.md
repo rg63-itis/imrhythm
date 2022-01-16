@@ -59,7 +59,7 @@ To be able to make that decision about where to invest your time and energy, one
 
 ##
 **Eisenhower Decission Matrix :** 
-{{< figure src="https://github.com/rg63-itis/imrhythm/blob/master/content/post/self/Time_Management/The-Eisenhower-Decision-Matrix-png-1024x768.jpeg" title="Eisenhower Decission Matrix." >}}
+{{< figure src="https://github.com/rg63-itis/imrhythm/blob/59753213389376e4ecac33105db286d569c1e849/content/post/self/Time_Management/The-Eisenhower-Decision-Matrix-png-1024x768.jpeg" title="Eisenhower Decission Matrix." >}}
 ##
 **Pareto 80-20 Rule**
 
