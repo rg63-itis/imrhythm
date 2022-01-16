@@ -52,6 +52,6 @@ While this might make sense on an abstract level, youâ€™re probably wondering, â
 
 
 ## Credit
-https://lnkd.in/gGwwAeyy
-https://www.linkedin.com/in/hbhand/
+- **Medium.com; Michael Simmons; Accelerated Intelleigence**. Checkout full article on [medium.com](https://lnkd.in/gGwwAeyy)
+- **Hrishikesh Bhand** [**linkedin**](https://www.linkedin.com/feed/update/urn:li:activity:6853929175905132544/)
 
