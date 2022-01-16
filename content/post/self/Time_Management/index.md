@@ -70,12 +70,10 @@ To be able to make that decision about where to invest your time and energy, one
 - Not more 5% of your work day should be spent on "delegated" tasks .. Those in "Delegated" quardrant.
 - Offcouse .. 0% on Deleted tasks
 - Rest of your work day -- well -- there will be meetings, plannings, research that you would have to do..  
-##
+
 ***2. Pareto 80-20 Rule**
 
 There might still be days, where one feels overwhelmed.. At those instances, follow Pareto 80-20 rule.. which states that for many outcomes, roughly 80% of consequences come from 20% of causes .. And its not a very random rule.. it has been observed by researchers with quite a detailed study and is widely accepted law. I persoanlly have experienced it almost everywhere I have been conscious to take a note of it.
 
 Applying the same, identify tasks that needs only 20% ( or less ) of your effort/time/energy and yet the result would be higher .. 
-
-## Credit
 
