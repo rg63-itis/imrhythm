@@ -1,6 +1,6 @@
 ---
-title: Time Management is Myth 
-subtitle: Time Management is Myth ..
+title: Time Management is Myth !
+subtitle: Its always 24hrs per day .. Manage Focus .. Not Time ! 
 
 # Summary for listings and search engines
 summary: 
@@ -51,12 +51,15 @@ categories:
 
 Right things are ..  Things that are inline with your growth .. Things that are "Actually" required/expected from you in your role .. 
 
-It very important to understand **Wise Investment of Your Time & Energy**
+Time and Energy is is constant for everyone. With success, more people will want to partner with you, thus seeking your time & energy. It very important to have **Wise Investment of Your Time & Energy**. Its pernicious to say "Yes" to each and everything that comes your way. If you dont choose how to spend your time & energy, others will choose for you. 
 
-And to be able to make that decision about where to invest your time and energy, one "MUST" find time to think what is required/right thing to be done & what "MUST" be skipped
+To be able to make that decision about where to invest your time and energy, one **"Must Find Time"** to think what is required/right thing to be done & what must be skipped
+
+**Plan out your work and Work out your plan!**
 
 ##
 **Eisenhower Decission Matrix :** 
+{{< figure src="https://github.com/rg63-itis/imrhythm/blob/master/content/post/self/Time_Management/The-Eisenhower-Decision-Matrix-png-1024x768.jpeg" title="Eisenhower Decission Matrix." >}}
 ##
 **Pareto 80-20 Rule**
 
