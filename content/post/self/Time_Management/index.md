@@ -61,18 +61,21 @@ To be able to make that decision about where to invest your time and energy, one
 **Toolkits that help Manage Focus** 
 
 ***1. Eisenhower Decission Matrix***
+
+{{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/post/self/Time_Management/The-Eisenhower-Decision-Matrix-png-1024x768.jpeg" title="" >}}
+
 - Categories your tasks as below matrix.
 - Attempt to reduce task list as low as possible in "DO" quardrant .. Should not be more than 3 or should not take more than 20% of your work day.
 - 40% of your work day should be spent on "scheduled" tasks.. Tasks that were scheduled as in "Decide" quardrant.
 - Not more 5% of your work day should be spent on "delegated" tasks .. Those in "Delegated" quardrant.
 - Offcouse .. 0% on Deleted tasks
 - Rest of your work day -- well -- there will be meetings, plannings, research that you would have to do..  
-{{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/post/self/Time_Management/The-Eisenhower-Decision-Matrix-png-1024x768.jpeg" title="" >}}
 ##
 ***2. Pareto 80-20 Rule**
-There might still be days, where one feels overwhelmed.. At those instances, follow Pareto 80-20 rule.. which states that for many outcomes, roughly 80% of consequences come from 20% of causes .. And its not a very random rule.. it has been observed by researchers with quite a detailed study and is widly accepted law. I persoanlly have expereienced it almost everywhere I have been conscious to take a note of it.
 
-Appling the same, identify tasks that needs only 20% ( or less ) of your effort/time/energy and yet the result would be higher .. 
+There might still be days, where one feels overwhelmed.. At those instances, follow Pareto 80-20 rule.. which states that for many outcomes, roughly 80% of consequences come from 20% of causes .. And its not a very random rule.. it has been observed by researchers with quite a detailed study and is widely accepted law. I persoanlly have experienced it almost everywhere I have been conscious to take a note of it.
+
+Applying the same, identify tasks that needs only 20% ( or less ) of your effort/time/energy and yet the result would be higher .. 
 
 ## Credit
 
