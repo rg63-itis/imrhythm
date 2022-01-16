@@ -48,10 +48,25 @@ categories:
 **Short Story Shorter** 
 
 If a team member at work makes a mistake, we’re more likely to attribute it to their personality, character, or skill level. However, if WE make the same mistake, we’re more likely to attribute it to the situation (i.e., we were rushing, felt tired, or someone else’s fault).
-While this might make sense on an abstract level, you’re probably wondering, “So why does this matter? What are the implications in my life?” [Here](https://lnkd.in/gGwwAeyy) is a detailed blog about the same, nicely written.
 
+**What is Fundamental Attribution Error??**
+The Fundamental Attribution Error states that when we try to explain other people’s bad behavior, we tend to overemphasize their personality and underemphasize the situation they were in. This leaves people feeling unappreciated and destroys relationships.
+
+**“Why does this matter? What are the implications in my life?”**
+
+The Fundamental Attribution Error can lead to a chain reaction of frustration, disengagement, subpar performance, further judgement, toxicity, and ultimately parting ways
+
+**Solution?**
+The Simple Solution To The Fundamental Attribution Error is - **Give People The Benefit Of The Doubt**
+
+**Benefits !!**
+- Be a leader that people actually want to follow and over-deliver for.
+- Communicate with your boss or employees more effectively.
+- Speak to your kids and significant other without them tuning out or being tuned out.
+
+PS: To understand in details.. check our the nicely written blog about the same [here](https://lnkd.in/gGwwAeyy)
 
 ## Credit
-- **Medium.com; Michael Simmons; Accelerated Intelleigence**. Checkout full article on [medium.com](https://lnkd.in/gGwwAeyy)
-- **Hrishikesh Bhand** [**linkedin**](https://www.linkedin.com/feed/update/urn:li:activity:6853929175905132544/)
+**Medium.com; Michael Simmons; Accelerated Intelleigence**
+Checkout full article on [medium.com](https://lnkd.in/gGwwAeyy)
 
