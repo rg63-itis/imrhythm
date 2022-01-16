@@ -42,7 +42,7 @@ categories:
 - Leadership
 ---
 ## Consistency
-
+{{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/post/self/Time_Management/The-Eisenhower-Decision-Matrix-png-1024x768.jpeg" title="Consistency is key to success !!" >}}
 
 
 ## Credit
