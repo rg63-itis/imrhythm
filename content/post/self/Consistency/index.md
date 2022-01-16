@@ -39,6 +39,7 @@ tags:
 
 categories:
 - Academic
+- Self Management
 - Consistency
 ---
 ## Consistency
