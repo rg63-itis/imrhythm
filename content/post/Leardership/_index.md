@@ -20,6 +20,6 @@ header:
 
   My posts here are collation of my experience and learnings. Have attempted to keep them crisp and to the point. Hope, you benefit from it and get a headstart.. 
   
-  I do not take credit for all what I have posted here.. some of them have been referenced from something I have came accross in my journey ..may an online article I read, an online video I saw, may a quote I saw on some random street that I saw while driving or may be someone mentioned during our casual talk.. I have attempted to acknowledge and give credit to those respective individuals/organisation/company.. If I have missed out someone, feel free to reach me .. Ways to reach me are mentioned on [Contact](https://imrhythm.co.in/#contact) page .. There could be delay in response, as I do not actively blog, but I surely will update/correct/revert back..
+**Disclaimer :**  I do not take credit for all what I have posted here.. some of them have been referenced from books I read or something I have came accross in my journey ..may an online article I read, an online video I saw, may a quote I saw on some random street that I saw while driving or may be someone mentioned during our casual talk.. I have made an genuine attempted to acknowledge and give credit to those respective individuals/organisation/company.. If I have missed out someone, feel free to reach me .. Ways to reach me are mentioned on [Contact](https://imrhythm.co.in/#contact) page .. There could be delay in response, as I do not actively blog, but I surely will update/correct/revert back..
 
 
