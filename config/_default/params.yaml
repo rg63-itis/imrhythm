@@ -137,7 +137,7 @@ comments:
     publication: false
     event: false
   disqus:
-    shortname: ''
+    shortname: 'https-imrhythm-co-in'
     show_count: true
   commento:
     url: ''
