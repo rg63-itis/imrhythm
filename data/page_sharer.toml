@@ -18,6 +18,14 @@
   enable = true
 
 [[buttons]]
+  id = "Instagram"
+  url = "https://www.facebook.com/sharer.php?u={url}&t={title}"
+  title = "Instagram"
+  icon_pack = "fab"
+  icon = "fa-instagram"
+  enable = true
+  
+[[buttons]]
   id = "facebook"
   url = "https://www.facebook.com/sharer.php?u={url}&t={title}"
   title = "Facebook"
