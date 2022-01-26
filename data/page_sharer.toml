@@ -19,7 +19,7 @@
 
 [[buttons]]
   id = "Instagram"
-  url = "https://www.facebook.com/sharer.php?u={url}&t={title}"
+  url = "https://www.instagram.com/sharer.php?u={url}&t={title}"
   title = "Instagram"
   icon_pack = "fab"
   icon = "instagram"
