@@ -42,5 +42,5 @@ categories:
 - Self Management
 - Attitude
 ---
-## Consistency
+## UnTalented!!
 {{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/post/self/ZeroTalented/10thingswithZerotalent.jpg" title="Sucess with 10 things that needs ZERO TALENT.. !!" >}}
