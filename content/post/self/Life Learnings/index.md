@@ -56,4 +56,7 @@ categories:
 **01 :**
 ***"Agar apne kisi karibi vyakti ke sath vivad ho jai ... kitna bhi bura sambandh ho jae ... woh sach mat bolyega ... jo aapne bohot waqt se sambhaal ke  rakha hai" aur "Kisi vartaman jhagde me, atit ko leke mat ayega"***
 
+**02 :**
+***"Parichae se pehle keval lobh hai.. Kisi ke roop, rang, paisa, power, status dekh kar mar mitne ka bhaav lobh hai.. Prem toh jab hoga jab gehra parichay hoga..par parichay me shacharya jarrori hai.. kuch waqt sath bita ke .. duniya bhar ki baat-chit kar ke .. vyakti ka parichaye hota hai .. "***
+
 
