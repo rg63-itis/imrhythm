@@ -128,19 +128,19 @@ projects:
 breadcrumb:
   page_types:
     book: true
-comments:
-  provider: 'commento'
-  commentable:
-    post: true
-    book: false
-    project: false
-    publication: false
-    event: false
-  disqus:
-    shortname: 'https-imrhythm-co-in'
-    show_count: true
-  commento:
-    url: ''
+#comments:
+#  provider: 'commento'
+#  commentable:
+#    post: true
+#    book: false
+#    project: false
+#    publication: false
+#    event: false
+#  disqus:
+#    shortname: 'https-imrhythm-co-in'
+#    show_count: true
+#  commento:
+#    url: ''
 search:
   provider: imrhythm
   algolia:
