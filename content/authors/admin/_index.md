@@ -32,7 +32,7 @@ interests:
 proud alumni:
   courses:
   - course: B.E. Electronics and Telecommunication
-    institution: [Shri Ramdeobaba College of Engineering and Management, RTM Nagpur University](http://www.rknec.edu/)
+    institution: Shri Ramdeobaba College of Engineering and Management, RTM Nagpur University
     year: 2009
   #- course: MEng in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
@@ -78,7 +78,7 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-IMRhythm Goyal, an enthusiast in leadership and technology domain, with over 11+ years of experience in IT industry. My interests are in areas of Leadership, Mentorship, Self Management, Automation, Reliability, Security and Individual Finance Management. Currently working as a Product Assurance Manager in one of a World's Leading Font Company, leading Squads of Security Enggineering, Security Analyst, Site Reliabilty, Product Opperation and IT Operation.
+IMRhythm Goyal, an enthusiast in leadership and technology, with over 12+ years of experience in IT industry. My interests are in areas of Leadership, Mentorship, Technology, Innovation, Automation, Reliability, Security, Self Management and Individual Finance Management. Currently working as a Production Engineering Sr. Manager in a World's Leading Font Company, leading Squads of Security Enggineering, Security Analyst, Site Reliabilty, Devops, Product Opperation and IT Operation.
 
 In my free time I am either reading [**books**](https://www.goodreads.com/review/list/141080998-rg63-itis?shelf=read) or watching movies.
 
