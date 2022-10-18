@@ -52,6 +52,10 @@ feature:
   icon: linux
   icon_pack: fab
   name: Linux Administration 
+- description: Mysql, MS-SQL, Mongo, Redis 
+  icon: fa-database
+  icon_pack: fab
+  name: Database ( Intermediatory ) 
 - description: Owasp Webapp Top10, WAF, EDR, SIEM, SSL, BurpSuite, Cloudflare, Tenable, SSO, MFA, IDP, Cisco Umbrella, ASA, IPS
   icon: shield-alt
   icon_pack: fas
