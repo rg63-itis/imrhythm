@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: India IT Head
+  - title: Production Engineering - Sr. Manager
     company: Monotype Solutions India
     company_url: 'https://www.monotype.com/'
   # company_logo: org-gc
@@ -32,8 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Leading and Driving **Product Assurance**
+        * Leading and Driving **Production Engineering**
         * Leading and Driving **Site Reliability**
+        * Leading and Driving **DevOps**
         * Leading and Driving **Application Security** and **Cyber Security**
         * Leading and Driving **Automations** in **IT Operations** and Deployments
         * **Project Management** 
