@@ -32,7 +32,7 @@ interests:
 proud alumni:
   courses:
   - course: B.E. Electronics and Telecommunication
-    institution: [**Shri Ramdeobaba College of Engineering and Management, RTM Nagpur University**] (http://www.rknec.edu/)
+    institution: [Shri Ramdeobaba College of Engineering and Management, RTM Nagpur University](http://www.rknec.edu/)
     year: 2009
   #- course: MEng in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
