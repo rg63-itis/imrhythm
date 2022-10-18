@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description:
+- description: Jira
   icon: project-diagram
   icon_pack: fas
   name: Project Managment
-- description:
+- description: Certified
   icon: aws
   icon_pack: fab
   name: AWS Soultion Arch
@@ -28,7 +28,7 @@ feature:
   icon: microsoft 
   icon_pack: fab
   name: MCSE Windows Server 2008
-- description: Ansible, Terraform
+- description: Ansible, Terraform, Packer
   icon: magic
   icon_pack: fas
   name: Automation   
@@ -52,7 +52,7 @@ feature:
   icon: linux
   icon_pack: fab
   name: Linux Administration 
-- description: Owasp Webapp Top10, WAF, EDR, SIEM, SSL, BurpSuite
+- description: Owasp Webapp Top10, WAF, EDR, SIEM, SSL, BurpSuite, Cloudflare, Tenable, SSO, MFA, IDP, Cisco Umbrella, ASA, IPS
   icon: shield-alt
   icon_pack: fas
   name: Security Analysis and Engineering
