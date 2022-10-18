@@ -6,7 +6,7 @@ title: Rhythm Goyal
 superuser: true
 
 # Role/position/tagline
-role: Leadership | Mentoring | Production Engineering - Technology ; Reliability ; Security ; Automation ; Innovation |
+role: Leadership | Mentoring | Technology | Innovation | Reliability | Security | Devops | Automation | IT Operations
 
 # Organizations/Affiliations to show in About widget
 #organizations:
