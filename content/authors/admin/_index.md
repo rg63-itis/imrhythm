@@ -6,7 +6,7 @@ title: Rhythm Goyal
 superuser: true
 
 # Role/position/tagline
-role: Leadership | Mentoring | Product Assurance - Technology ; Security ; Reliability ; Automation |
+role: Leadership | Mentoring | Production Engineering - Technology ; Reliability ; Security ; Automation ; Innovation |
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -20,17 +20,19 @@ role: Leadership | Mentoring | Product Assurance - Technology ; Security ; Relia
 interests:
 - Leadership
 - Mentoring
-- Self Management
+- Technology
 - Security - Offensive & Defensive
 - Reliability
+- Innovation
 - Automation
+- Self Management
 - Individual Finance Management
 
 # Education to show in About widget
-education:
+proud alumni:
   courses:
   - course: B.E. Electronics and Telecommunication
-    institution: Shri Ramdeobaba College of Engineering and Management, RTM Nagpur University 
+    institution: [**Shri Ramdeobaba College of Engineering and Management, RTM Nagpur University**] (http://www.rknec.edu/)
     year: 2009
   #- course: MEng in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
