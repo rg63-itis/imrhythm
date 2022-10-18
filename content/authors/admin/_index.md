@@ -29,7 +29,7 @@ interests:
 - Individual Finance Management
 
 # Education to show in About widget
-proud alumni:
+education:
   courses:
   - course: B.E. Electronics and Telecommunication
     institution: Shri Ramdeobaba College of Engineering and Management, RTM Nagpur University
