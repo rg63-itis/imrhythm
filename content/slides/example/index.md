@@ -16,7 +16,7 @@ slides:
 # Bot.. 
 
  **Good !! Nuisance ??**
-![image](https://user-images.githubusercontent.com/57824047/197196695-98ccd996-fd5d-44b5-acd9-90de8893b358.png)
+{{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/slides/bots/botgoodbad.jpg" title="" >}}
 
 ---
 
