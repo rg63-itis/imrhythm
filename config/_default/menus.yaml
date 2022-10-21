@@ -19,21 +19,21 @@ main:
     weight: 15
     parent: Posts   
   - name: Information Security
-    url: post/Security
+    url: slides/example
     weight: 20
     parent: Posts
-  - name: Site Reliability Engg
-    url: post/SRE
-    weight: 30
-    parent: Posts
-  - name: Automation
-    url: post/Automation
-    weight: 40
-    parent: Posts
-  - name: Finance
-    url: post/Fin
-    weight: 60
-    parent: Posts
+  #- name: Site Reliability Engg
+  #  url: post/SRE
+  #  weight: 30
+  #  parent: Posts
+  #- name: Automation
+  #  url: post/Automation
+  #  weight: 40
+  #  parent: Posts
+  #- name: Finance
+  #  url: post/Fin
+  #  weight: 60
+  #  parent: Posts
   #- name: Projects
   #  url: '#projects'
   #  weight: 30
