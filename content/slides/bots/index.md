@@ -16,14 +16,11 @@ slides:
 # Bot.. 
 
  **Good !! Nuisance ??**
-{{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/post/self/Time_Management/The-Eisenhower-Decision-Matrix-png-1024x768.jpeg" title="" >}}
+{{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/slides/bots/botgoodbad.jpg" title="" >}}
 
 ---
-
 ## 
-
 {{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/slides/bots/botdef.png" title="" >}}
-
 ---
 
 ## Controls
