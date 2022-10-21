@@ -20,12 +20,9 @@ slides:
 
 ---
 
-## Features
+## 
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+{{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/slides/bots/botdef.png" title="" >}}
 
 ---
 
