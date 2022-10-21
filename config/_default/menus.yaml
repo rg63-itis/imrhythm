@@ -19,7 +19,7 @@ main:
     weight: 15
     parent: Posts   
   - name: Information Security
-    url: slides/example
+    url: slides/bots
     weight: 20
     parent: Posts
   #- name: Site Reliability Engg
