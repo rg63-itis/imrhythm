@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+summary: An introduction to BOTS...
 authors: []
 tags: []
 categories: []
@@ -13,9 +13,10 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
+# Bot.. 
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+ **Good !! Nuisance ??**
+![image](https://user-images.githubusercontent.com/57824047/197196695-98ccd996-fd5d-44b5-acd9-90de8893b358.png)
 
 ---
 
