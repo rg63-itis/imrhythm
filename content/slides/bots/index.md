@@ -12,17 +12,13 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
-
 # Bot.. 
-
- **Good !! Nuisance ??**
+**Good !! Nuisance ??**
 {{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/slides/bots/botgoodbad.jpg" title="" >}}
-
 ---
 ## 
 {{< figure src="https://raw.githubusercontent.com/rg63-itis/imrhythm/master/content/slides/bots/botdef.png" title="" >}}
 ---
-
 ## Controls
 
 - Next: `Right Arrow` or `Space`
