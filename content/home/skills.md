@@ -17,9 +17,13 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Jira
-  icon: project-diagram
+  icon: assets/media/icons/Finops.jpeg
   icon_pack: fas
   name: Project Managment
+- description: Certified
+  icon: project-diagram
+  icon_pack: fas
+  name: FinOps
 - description: Certified
   icon: aws
   icon_pack: fab
@@ -56,7 +60,7 @@ feature:
   icon: database
   icon_pack: fas
   name: Database ( Intermediatory ) 
-- description: Owasp Webapp Top10, WAF, EDR, SIEM, SSL, BurpSuite, Cloudflare, Tenable, SSO, MFA, IDP, Cisco Umbrella, ASA, IPS
+- description: Owasp Top10 (WebApp, API, CICD), Threat Model, WAF, EDR, SIEM, SSL, BurpSuite, Cloudflare, Tenable, SSO, MFA, IDP, Cisco Umbrella, ASA, IPS
   icon: shield-alt
   icon_pack: fas
   name: Security Analysis and Engineering
