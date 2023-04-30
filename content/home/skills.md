@@ -21,7 +21,7 @@ feature:
   icon_pack: fas
   name: Project Managment
 - description: Certified
-  icon: assets/media/icons/proval.svg
+  icon: proval.svg
   icon_pack: fas
   name: FinOps
 - description: Certified
