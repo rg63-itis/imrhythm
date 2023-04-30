@@ -21,6 +21,7 @@ interests:
 - Leadership
 - Mentoring
 - Technology
+- FinOps
 - Innovation
 - Reliability
 - Automation
