@@ -17,11 +17,11 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Jira
-  icon: assets/media/icons/Finops.jpeg
+  icon: project-diagram
   icon_pack: fas
   name: Project Managment
 - description: Certified
-  icon: project-diagram
+  icon: assets/media/icons/proval.svg
   icon_pack: fas
   name: FinOps
 - description: Certified
