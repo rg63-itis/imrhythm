@@ -6,7 +6,7 @@ title: Rhythm Goyal
 superuser: true
 
 # Role/position/tagline
-role: Leadership | Mentoring | Technology | Innovation | Reliability | Automation | Security | Devops | IT Operations
+role:  Leadership | Mentorship | FinOps | Technology | Security | Reliability |  Devops | Automation | IT Operations | Agile 
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -79,7 +79,7 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-IMRhythm Goyal, an enthusiast in leadership and technology, with over 12+ years of experience in IT industry. My interests are in areas of Leadership, Mentorship, Technology, Innovation, Reliability, Automation, Security (Offensive & Defensive), Operations (IT & Devop), Self Management and Individual Finance Management. Currently working as a Production Engineering Sr. Manager in a World's Leading Font Company, leading Squads of Security Enggineering, Security Analyst, Site Reliabilty, Devops, Product Opperation and IT Operation.
+IMRhythm Goyal, an enthusiast in leadership and technology, with over 12+ years of experience in IT industry. My interests are in areas of Leadership, Mentorship, Technology, Innovation, FinOps, Reliability, Automation, Security (Offensive & Defensive), Operations (IT & Devop), Self Management and Individual Finance Management. Currently working as a Production Engineering Sr. Manager in a World's Leading Font Company, leading Squads of Security Enggineering, Security Analyst, Site Reliabilty, Devops, Product Opperation and IT Operation.
 
 In my free time I am either reading [**books**](https://www.goodreads.com/review/list/141080998-rg63-itis?shelf=read) or watching movies.
 
