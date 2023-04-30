@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Jira
+- description: Scrum via Jira
   icon: project-diagram
   icon_pack: fas
   name: Project Managment
