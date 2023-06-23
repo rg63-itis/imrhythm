@@ -22,6 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+<meta name='google-site-verification' content='E8HvcrvfzVl2N1wv0Qjy5jV2tgvAZTzcbnnnRbz8LyQ' >
   - title: Production Engineering - Sr. Manager
     company: Monotype Solutions India
     company_url: 'https://www.monotype.com/'
